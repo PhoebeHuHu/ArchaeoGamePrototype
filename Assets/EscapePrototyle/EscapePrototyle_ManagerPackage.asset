@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: EscapePrototyle_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: b65553d6bdce5c442aacfe32d99f8a1a, type: 2}
+  sceneManager: {fileID: 11400000, guid: f739d7ece04bb9846aaf39f6f0a90e11, type: 2}
+  settingsManager: {fileID: 11400000, guid: 8d8a2a12af218fc42ab7679c572b2f74, type: 2}
+  inventoryManager: {fileID: 11400000, guid: b7c499df140e0cf4d83f71aa7f8585c6, type: 2}
+  variablesManager: {fileID: 11400000, guid: 270fdac0b9d33f342831fdff24de59bc, type: 2}
+  speechManager: {fileID: 11400000, guid: 7192e02d913e6c14aa9b42b8f9f2dd8a, type: 2}
+  cursorManager: {fileID: 11400000, guid: 9649d9509beada644ae5a0731f3f257e, type: 2}
+  menuManager: {fileID: 11400000, guid: 1358d5895fb0f4649ac71ed1a467a21c, type: 2}
