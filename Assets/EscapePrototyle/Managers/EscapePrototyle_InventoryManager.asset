@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: EscapePrototyle_InventoryManager
   m_EditorClassIdentifier: 
   items:
-  - label: Inventory item 1
+  - label: Salt
     id: 0
     altLabel: 
     carryOnStart: 0
@@ -25,10 +25,10 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 838f359e0e28c4bbdaf0e4790c57d2df, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
-    linkedPrefab: {fileID: 0}
+    linkedPrefab: {fileID: 919132149155446097, guid: cf25e0e8b0d46944b9a1495192f4d946, type: 3}
     cursorIcon:
       texture: {fileID: 0}
       isAnimated: 0
@@ -75,7 +75,19 @@ MonoBehaviour:
   passUnhandledHotspotAsParameter: 0
   unhandledGive: {fileID: 0}
   recipes: []
-  documents: []
+  documents:
+  - ID: 0
+    title: Salt
+    titleLineID: -1
+    rememberLastOpenPage: 0
+    carryOnStart: 0
+    texture: {fileID: 0}
+    pages:
+    - lineID: -1
+      text: 
+      texture: {fileID: 0}
+    binID: -1
+    vars: []
   objectives: []
   objectiveStateActiveLabel:
     label: Active
